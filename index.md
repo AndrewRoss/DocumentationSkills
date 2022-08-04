@@ -26,3 +26,14 @@ public ConnectionIdicatorStatus Status
 - [x] Add the task list to the index file
 - [ ] Another task!
  
+## Testing with Tables
+| Feature | Test Procedure |
+|---------|----------------|
+| Lumen-Aid | When life gives you lumens, make lumen-aid multiple lines |
+| Second Feature | Second feature description here! |
+| Angio-Coreg | Co-register angio with IVUS-OCT |
+
+## Bullets
+ - item one
+ - item tw0
+   - nested item?
