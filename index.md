@@ -7,7 +7,7 @@ Here's an Image!
 ![Test Image](https://user-images.githubusercontent.com/2401223/182945849-f9d7faef-48d3-4ea3-8305-c9756097b1a9.png)
 
 ### Code Block Testing
-``` C#
+``` csharp
 /// <summary>
 /// Gets the connection status.
 /// </summary>
